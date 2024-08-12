@@ -1,0 +1,870 @@
+Current Time Step: 159
+Castle data: 
+Health: 246.647423
+Max Health: 250.000000
+Health Threshold: 62.500000
+Status: Frosted
+Freezing Threshold: 50.000000
+Ice Accumulated: 0.000000
+Power: 60
+N: 3
+Number of Super Soldiers: 3
+-------------------------------- 
+Active Enemies data:
+ID: 8
+Arrival Time: 1
+Distance: 20.000000
+Max Health: 12.000000
+Current Health: 12.000000
+Speed: 2.000000
+Power: 3
+Reload Period: 2
+Reload Counter: 0
+Ice Accumulated: 0.000000
+Freezing Threshold: 9.000000
+Melting Rate: 0.666667
+Status: Active
+Type: Healer
+First Shot time: 0
+Killed time: 0
+
+ID: 14
+Arrival Time: 1
+Distance: 2.000000
+Max Health: 25.000000
+Current Health: 25.000000
+Speed: 2.000000
+Power: 3
+Reload Period: 2
+Reload Counter: 0
+Ice Accumulated: 0.000000
+Freezing Threshold: 15.500000
+Melting Rate: 0.568182
+Status: Active
+Type: Freezer
+First Shot time: 0
+Killed time: 0
+
+ID: 23
+Arrival Time: 1
+Distance: 2.000000
+Max Health: 14.000000
+Current Health: 14.000000
+Speed: 4.000000
+Power: 2
+Reload Period: 1
+Reload Counter: 0
+Ice Accumulated: 0.000000
+Freezing Threshold: 9.000000
+Melting Rate: 0.583333
+Status: Active
+Type: Freezer
+First Shot time: 0
+Killed time: 0
+
+ID: 28
+Arrival Time: 1
+Distance: 19.000000
+Max Health: 17.000000
+Current Health: 17.000000
+Speed: 1.000000
+Power: 4
+Reload Period: 3
+Reload Counter: 1
+Ice Accumulated: 0.000000
+Freezing Threshold: 12.500000
+Melting Rate: 0.653846
+Status: Active
+Type: Healer
+First Shot time: 0
+Killed time: 0
+
+ID: 32
+Arrival Time: 1
+Distance: 2.000000
+Max Health: 28.000000
+Current Health: 28.000000
+Speed: 4.000000
+Power: 1
+Reload Period: 3
+Reload Counter: 0
+Ice Accumulated: 0.000000
+Freezing Threshold: 15.000000
+Melting Rate: 0.518519
+Status: Active
+Type: Freezer
+First Shot time: 0
+Killed time: 0
+
+ID: 47
+Arrival Time: 1
+Distance: 2.000000
+Max Health: 26.000000
+Current Health: 26.000000
+Speed: 3.000000
+Power: 3
+Reload Period: 2
+Reload Counter: 0
+Ice Accumulated: 0.000000
+Freezing Threshold: 16.000000
+Melting Rate: 0.565217
+Status: Active
+Type: Freezer
+First Shot time: 0
+Killed time: 0
+
+ID: 2
+Arrival Time: 2
+Distance: 20.000000
+Max Health: 14.000000
+Current Health: 14.000000
+Speed: 1.000000
+Power: 1
+Reload Period: 1
+Reload Counter: 0
+Ice Accumulated: 0.000000
+Freezing Threshold: 8.000000
+Melting Rate: 0.538462
+Status: Active
+Type: Healer
+First Shot time: 0
+Killed time: 0
+
+ID: 4
+Arrival Time: 2
+Distance: 2.000000
+Max Health: 10.000000
+Current Health: 10.000000
+Speed: 3.000000
+Power: 4
+Reload Period: 1
+Reload Counter: 0
+Ice Accumulated: 0.000000
+Freezing Threshold: 9.000000
+Melting Rate: 0.833333
+Status: Active
+Type: Freezer
+First Shot time: 0
+Killed time: 0
+
+ID: 7
+Arrival Time: 2
+Distance: 2.000000
+Max Health: 29.000000
+Current Health: 29.000000
+Speed: 4.000000
+Power: 2
+Reload Period: 1
+Reload Counter: 0
+Ice Accumulated: 0.000000
+Freezing Threshold: 16.500000
+Melting Rate: 0.537037
+Status: Active
+Type: Freezer
+First Shot time: 0
+Killed time: 0
+
+ID: 11
+Arrival Time: 2
+Distance: 2.000000
+Max Health: 20.000000
+Current Health: 20.000000
+Speed: 4.000000
+Power: 3
+Reload Period: 1
+Reload Counter: 1
+Ice Accumulated: 0.000000
+Freezing Threshold: 13.000000
+Melting Rate: 0.588235
+Status: Active
+Type: Freezer
+First Shot time: 0
+Killed time: 0
+
+ID: 16
+Arrival Time: 2
+Distance: 20.000000
+Max Health: 13.000000
+Current Health: 13.000000
+Speed: 1.000000
+Power: 4
+Reload Period: 2
+Reload Counter: 1
+Ice Accumulated: 0.000000
+Freezing Threshold: 10.500000
+Melting Rate: 0.722222
+Status: Active
+Type: Healer
+First Shot time: 0
+Killed time: 0
+
+ID: 20
+Arrival Time: 2
+Distance: 2.000000
+Max Health: 30.000000
+Current Health: 30.000000
+Speed: 2.000000
+Power: 4
+Reload Period: 1
+Reload Counter: 1
+Ice Accumulated: 0.000000
+Freezing Threshold: 19.000000
+Melting Rate: 0.576923
+Status: Active
+Type: Freezer
+First Shot time: 0
+Killed time: 0
+
+ID: 22
+Arrival Time: 2
+Distance: 35.000000
+Max Health: 18.000000
+Current Health: 18.000000
+Speed: 3.000000
+Power: 3
+Reload Period: 2
+Reload Counter: 1
+Ice Accumulated: 0.000000
+Freezing Threshold: 12.000000
+Melting Rate: 0.600000
+Status: Active
+Type: Healer
+First Shot time: 0
+Killed time: 0
+
+ID: 26
+Arrival Time: 2
+Distance: 2.000000
+Max Health: 12.000000
+Current Health: 12.000000
+Speed: 4.000000
+Power: 3
+Reload Period: 1
+Reload Counter: 1
+Ice Accumulated: 0.000000
+Freezing Threshold: 9.000000
+Melting Rate: 0.666667
+Status: Active
+Type: Freezer
+First Shot time: 0
+Killed time: 0
+
+ID: 34
+Arrival Time: 2
+Distance: 20.000000
+Max Health: 20.000000
+Current Health: 20.000000
+Speed: 1.000000
+Power: 3
+Reload Period: 1
+Reload Counter: 0
+Ice Accumulated: 0.000000
+Freezing Threshold: 13.000000
+Melting Rate: 0.588235
+Status: Active
+Type: Healer
+First Shot time: 0
+Killed time: 0
+
+ID: 38
+Arrival Time: 2
+Distance: 2.000000
+Max Health: 23.000000
+Current Health: 23.000000
+Speed: 1.000000
+Power: 4
+Reload Period: 1
+Reload Counter: 1
+Ice Accumulated: 0.000000
+Freezing Threshold: 15.500000
+Melting Rate: 0.605263
+Status: Active
+Type: Freezer
+First Shot time: 0
+Killed time: 0
+
+ID: 44
+Arrival Time: 2
+Distance: 2.000000
+Max Health: 27.000000
+Current Health: 27.000000
+Speed: 2.000000
+Power: 2
+Reload Period: 3
+Reload Counter: 2
+Ice Accumulated: 0.000000
+Freezing Threshold: 15.500000
+Melting Rate: 0.540000
+Status: Active
+Type: Freezer
+First Shot time: 0
+Killed time: 0
+
+ID: 17
+Arrival Time: 3
+Distance: 2.000000
+Max Health: 22.000000
+Current Health: 22.000000
+Speed: 3.000000
+Power: 2
+Reload Period: 3
+Reload Counter: 2
+Ice Accumulated: 0.000000
+Freezing Threshold: 13.000000
+Melting Rate: 0.550000
+Status: Active
+Type: Freezer
+First Shot time: 0
+Killed time: 0
+
+ID: 29
+Arrival Time: 3
+Distance: 2.000000
+Max Health: 24.000000
+Current Health: 24.000000
+Speed: 4.000000
+Power: 2
+Reload Period: 1
+Reload Counter: 1
+Ice Accumulated: 0.000000
+Freezing Threshold: 14.000000
+Melting Rate: 0.545455
+Status: Active
+Type: Freezer
+First Shot time: 0
+Killed time: 0
+
+ID: 41
+Arrival Time: 3
+Distance: 2.000000
+Max Health: 29.000000
+Current Health: 29.000000
+Speed: 2.000000
+Power: 1
+Reload Period: 2
+Reload Counter: 2
+Ice Accumulated: 0.000000
+Freezing Threshold: 15.500000
+Melting Rate: 0.517857
+Status: Active
+Type: Freezer
+First Shot time: 0
+Killed time: 0
+
+ID: 35
+Arrival Time: 4
+Distance: 2.000000
+Max Health: 15.000000
+Current Health: 15.000000
+Speed: 3.000000
+Power: 2
+Reload Period: 2
+Reload Counter: 2
+Ice Accumulated: 0.000000
+Freezing Threshold: 9.500000
+Melting Rate: 0.576923
+Status: Active
+Type: Freezer
+First Shot time: 0
+Killed time: 0
+
+ID: 50
+Arrival Time: 7
+Distance: 2.000000
+Max Health: 30.000000
+Current Health: 30.000000
+Speed: 4.000000
+Power: 4
+Reload Period: 1
+Reload Counter: 0
+Ice Accumulated: 0.000000
+Freezing Threshold: 19.000000
+Melting Rate: 0.576923
+Status: Active
+Type: Freezer
+First Shot time: 0
+Killed time: 0
+
+-------------------------------- 
+Frozen Enemies data:
+ID: 40
+Arrival Time: 2
+Distance: 50.000000
+Max Health: 16.000000
+Current Health: 13.600000
+Speed: 4.000000
+Power: 2
+Reload Period: 1
+Reload Counter: 1
+Ice Accumulated: 378.900000
+Freezing Threshold: 10.000000
+Melting Rate: 0.485714
+Status: Frosted
+Type: Healer
+First Shot time: 158
+Killed time: 0
+
+-------------------------------- 
+Killed Enemies data:
+ID: 45
+Arrival Time: 5
+Distance: 2.000000
+Max Health: 30.000000
+Current Health: 0.000000
+Speed: 4.000000
+Power: 1
+Reload Period: 2
+Reload Counter: 0
+Ice Accumulated: 0.000000
+Freezing Threshold: 16.000000
+Melting Rate: 0.000000
+Status: Killed
+Type: Fighter
+First Shot time: 20
+Killed time: 20
+
+ID: 1
+Arrival Time: 3
+Distance: 9.000000
+Max Health: 13.000000
+Current Health: 0.000000
+Speed: 3.000000
+Power: 3
+Reload Period: 2
+Reload Counter: 1
+Ice Accumulated: 379.366667
+Freezing Threshold: 9.500000
+Melting Rate: 0.000000
+Status: Killed
+Type: Fighter
+First Shot time: 20
+Killed time: 21
+
+ID: 42
+Arrival Time: 1
+Distance: 12.000000
+Max Health: 21.000000
+Current Health: 0.000000
+Speed: 3.000000
+Power: 4
+Reload Period: 2
+Reload Counter: 2
+Ice Accumulated: 189.617647
+Freezing Threshold: 14.500000
+Melting Rate: 0.000000
+Status: Killed
+Type: Fighter
+First Shot time: 8
+Killed time: 26
+
+ID: 27
+Arrival Time: 5
+Distance: 2.000000
+Max Health: 19.000000
+Current Health: 0.000000
+Speed: 3.000000
+Power: 2
+Reload Period: 2
+Reload Counter: 2
+Ice Accumulated: 190.000000
+Freezing Threshold: 11.500000
+Melting Rate: 0.000000
+Status: Killed
+Type: Fighter
+First Shot time: 19
+Killed time: 28
+
+ID: 30
+Arrival Time: 2
+Distance: 2.000000
+Max Health: 14.000000
+Current Health: 0.000000
+Speed: 2.000000
+Power: 3
+Reload Period: 1
+Reload Counter: 1
+Ice Accumulated: 0.000000
+Freezing Threshold: 10.000000
+Melting Rate: 0.000000
+Status: Killed
+Type: Fighter
+First Shot time: 14
+Killed time: 31
+
+ID: 6
+Arrival Time: 5
+Distance: 2.000000
+Max Health: 15.000000
+Current Health: 0.000000
+Speed: 2.000000
+Power: 1
+Reload Period: 3
+Reload Counter: 3
+Ice Accumulated: 0.000000
+Freezing Threshold: 8.500000
+Melting Rate: 0.000000
+Status: Killed
+Type: Fighter
+First Shot time: 18
+Killed time: 34
+
+ID: 33
+Arrival Time: 3
+Distance: 6.000000
+Max Health: 11.000000
+Current Health: 0.000000
+Speed: 2.000000
+Power: 4
+Reload Period: 2
+Reload Counter: 0
+Ice Accumulated: 189.214286
+Freezing Threshold: 9.500000
+Melting Rate: 0.000000
+Status: Killed
+Type: Fighter
+First Shot time: 30
+Killed time: 35
+
+ID: 36
+Arrival Time: 1
+Distance: 16.000000
+Max Health: 30.000000
+Current Health: 0.000000
+Speed: 4.000000
+Power: 1
+Reload Period: 3
+Reload Counter: 1
+Ice Accumulated: 948.289125
+Freezing Threshold: 16.000000
+Melting Rate: 0.000000
+Status: Killed
+Type: Fighter
+First Shot time: 3
+Killed time: 45
+
+ID: 3
+Arrival Time: 4
+Distance: 22.000000
+Max Health: 25.000000
+Current Health: 0.000000
+Speed: 2.000000
+Power: 2
+Reload Period: 3
+Reload Counter: 1
+Ice Accumulated: 758.774704
+Freezing Threshold: 14.500000
+Melting Rate: 0.000000
+Status: Killed
+Type: Fighter
+First Shot time: 15
+Killed time: 61
+
+ID: 12
+Arrival Time: 1
+Distance: 57.000000
+Max Health: 11.000000
+Current Health: 0.000000
+Speed: 1.000000
+Power: 1
+Reload Period: 2
+Reload Counter: 0
+Ice Accumulated: 568.718421
+Freezing Threshold: 6.500000
+Melting Rate: 0.000000
+Status: Killed
+Type: Fighter
+First Shot time: 62
+Killed time: 62
+
+ID: 18
+Arrival Time: 1
+Distance: 58.000000
+Max Health: 16.000000
+Current Health: 0.000000
+Speed: 2.000000
+Power: 3
+Reload Period: 1
+Reload Counter: 1
+Ice Accumulated: 189.384615
+Freezing Threshold: 11.000000
+Melting Rate: 0.000000
+Status: Killed
+Type: Fighter
+First Shot time: 67
+Killed time: 67
+
+ID: 48
+Arrival Time: 2
+Distance: 59.000000
+Max Health: 13.000000
+Current Health: 0.000000
+Speed: 1.000000
+Power: 2
+Reload Period: 3
+Reload Counter: 3
+Ice Accumulated: 758.653313
+Freezing Threshold: 8.500000
+Melting Rate: 0.000000
+Status: Killed
+Type: Fighter
+First Shot time: 68
+Killed time: 68
+
+ID: 15
+Arrival Time: 3
+Distance: 52.000000
+Max Health: 17.000000
+Current Health: 0.000000
+Speed: 4.000000
+Power: 1
+Reload Period: 1
+Reload Counter: 0
+Ice Accumulated: 948.245192
+Freezing Threshold: 9.500000
+Melting Rate: 0.000000
+Status: Killed
+Type: Fighter
+First Shot time: 75
+Killed time: 75
+
+ID: 39
+Arrival Time: 4
+Distance: 48.000000
+Max Health: 18.000000
+Current Health: 0.000000
+Speed: 3.000000
+Power: 3
+Reload Period: 3
+Reload Counter: 0
+Ice Accumulated: 948.625000
+Freezing Threshold: 12.000000
+Melting Rate: 0.000000
+Status: Killed
+Type: Fighter
+First Shot time: 76
+Killed time: 76
+
+ID: 9
+Arrival Time: 4
+Distance: 51.000000
+Max Health: 18.000000
+Current Health: 0.000000
+Speed: 3.000000
+Power: 4
+Reload Period: 1
+Reload Counter: 1
+Ice Accumulated: 948.508403
+Freezing Threshold: 13.000000
+Melting Rate: 0.000000
+Status: Killed
+Type: Fighter
+First Shot time: 77
+Killed time: 77
+
+ID: 21
+Arrival Time: 3
+Distance: 44.000000
+Max Health: 21.000000
+Current Health: 0.000000
+Speed: 2.000000
+Power: 1
+Reload Period: 3
+Reload Counter: 0
+Ice Accumulated: 948.295455
+Freezing Threshold: 11.500000
+Melting Rate: 0.000000
+Status: Killed
+Type: Fighter
+First Shot time: 77
+Killed time: 77
+
+ID: 24
+Arrival Time: 4
+Distance: 48.000000
+Max Health: 25.000000
+Current Health: 0.000000
+Speed: 3.000000
+Power: 4
+Reload Period: 2
+Reload Counter: 2
+Ice Accumulated: 2655.744048
+Freezing Threshold: 16.500000
+Melting Rate: 0.000000
+Status: Killed
+Type: Fighter
+First Shot time: 83
+Killed time: 83
+
+ID: 49
+Arrival Time: 4
+Distance: 20.000000
+Max Health: 19.000000
+Current Health: 0.000000
+Speed: 2.000000
+Power: 1
+Reload Period: 2
+Reload Counter: 0
+Ice Accumulated: 1138.208333
+Freezing Threshold: 10.500000
+Melting Rate: 0.000000
+Status: Killed
+Type: Healer
+First Shot time: 84
+Killed time: 90
+
+ID: 43
+Arrival Time: 4
+Distance: 30.000000
+Max Health: 22.000000
+Current Health: 0.000000
+Speed: 1.000000
+Power: 3
+Reload Period: 1
+Reload Counter: 0
+Ice Accumulated: 1328.263158
+Freezing Threshold: 14.000000
+Melting Rate: 0.000000
+Status: Killed
+Type: Healer
+First Shot time: 91
+Killed time: 100
+
+ID: 31
+Arrival Time: 4
+Distance: 21.000000
+Max Health: 22.000000
+Current Health: 0.000000
+Speed: 3.000000
+Power: 2
+Reload Period: 2
+Reload Counter: 1
+Ice Accumulated: 947.964286
+Freezing Threshold: 13.000000
+Melting Rate: 0.000000
+Status: Killed
+Type: Healer
+First Shot time: 101
+Killed time: 107
+
+ID: 19
+Arrival Time: 4
+Distance: 28.000000
+Max Health: 28.000000
+Current Health: 0.000000
+Speed: 4.000000
+Power: 2
+Reload Period: 2
+Reload Counter: 0
+Ice Accumulated: 1706.596154
+Freezing Threshold: 16.000000
+Melting Rate: 0.000000
+Status: Killed
+Type: Healer
+First Shot time: 108
+Killed time: 119
+
+ID: 13
+Arrival Time: 4
+Distance: 35.000000
+Max Health: 19.000000
+Current Health: 0.000000
+Speed: 3.000000
+Power: 2
+Reload Period: 3
+Reload Counter: 3
+Ice Accumulated: 1138.588235
+Freezing Threshold: 11.500000
+Melting Rate: 0.000000
+Status: Killed
+Type: Healer
+First Shot time: 120
+Killed time: 129
+
+ID: 46
+Arrival Time: 3
+Distance: 44.000000
+Max Health: 15.000000
+Current Health: 0.000000
+Speed: 2.000000
+Power: 4
+Reload Period: 1
+Reload Counter: 1
+Ice Accumulated: 568.779195
+Freezing Threshold: 11.500000
+Melting Rate: 0.000000
+Status: Killed
+Type: Healer
+First Shot time: 130
+Killed time: 138
+
+ID: 37
+Arrival Time: 3
+Distance: 24.000000
+Max Health: 26.000000
+Current Health: 0.000000
+Speed: 2.000000
+Power: 2
+Reload Period: 2
+Reload Counter: 2
+Ice Accumulated: 948.537660
+Freezing Threshold: 15.000000
+Melting Rate: 0.000000
+Status: Killed
+Type: Healer
+First Shot time: 140
+Killed time: 148
+
+ID: 25
+Arrival Time: 3
+Distance: 8.000000
+Max Health: 16.000000
+Current Health: 0.000000
+Speed: 2.000000
+Power: 1
+Reload Period: 3
+Reload Counter: 1
+Ice Accumulated: 189.716667
+Freezing Threshold: 9.000000
+Melting Rate: 0.000000
+Status: Killed
+Type: Healer
+First Shot time: 149
+Killed time: 150
+
+ID: 10
+Arrival Time: 3
+Distance: 4.000000
+Max Health: 14.000000
+Current Health: 0.000000
+Speed: 2.000000
+Power: 2
+Reload Period: 2
+Reload Counter: 1
+Ice Accumulated: 190.000000
+Freezing Threshold: 9.000000
+Melting Rate: 0.000000
+Status: Killed
+Type: Healer
+First Shot time: 151
+Killed time: 151
+
+ID: 5
+Arrival Time: 3
+Distance: 29.000000
+Max Health: 11.000000
+Current Health: 0.000000
+Speed: 1.000000
+Power: 2
+Reload Period: 2
+Reload Counter: 0
+Ice Accumulated: 947.863985
+Freezing Threshold: 7.500000
+Melting Rate: 0.000000
+Status: Killed
+Type: Healer
+First Shot time: 157
+Killed time: 157
+
+-------------------------------- 
+Game Result: ON_GOING
+-------------------------------- 
